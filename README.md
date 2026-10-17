@@ -82,8 +82,7 @@ Specific findings should be validated against the underlying datasets and select
   ## Dashboard Preview
 ## Banking Analytics Dashboard
 
-This dashboard analyzes loan performance, customer behavior,
-repayment patterns, and debit/credit card transactions.
+
 https://github.com/meghana03012/Banking-Analysis/blob/main/banking_overview.png
 !([images/banking_overview.png](https://github.com/meghana03012/Banking-Analysis/blob/main/banking_overview.png))
 ### Banking Overview
@@ -94,7 +93,9 @@ https://github.com/meghana03012/Banking-Analysis/blob/main/banking_overview.png
 ![Loan Analytics](images/loan_analytics.png)
 
 ### Card Transaction Analytics
-![Card Transaction Analytics](images/card_transaction_analytics.png)
+This dashboard analyzes loan performance, customer behavior,
+repayment patterns, and debit/credit card transactions.
+
 
 ## Skills Demonstrated
 

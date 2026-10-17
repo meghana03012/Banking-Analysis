@@ -80,8 +80,14 @@ Specific findings should be validated against the underlying datasets and select
 - Track regional performance and investigate significant changes in loan or transaction activity.
 
   ## Dashboard Preview
+## Banking Analytics Dashboard
 
+This dashboard analyzes loan performance, customer behavior,
+repayment patterns, and debit/credit card transactions.
+
+![Banking Analytics Dashboard](images/banking_overview.png)
 ### Banking Overview
+
 https://github.com/meghana03012/Banking-Analysis/blob/main/banking_overview.png
 
 ### Loan Analytics

@@ -81,6 +81,7 @@ Specific findings should be validated against the underlying datasets and select
 
   ## Dashboard Preview
 ## Banking Analytics Dashboard
+<img width="1327" height="627" alt="image" src="https://github.com/user-attachments/assets/1c46353e-db4c-4e60-a97c-165019703c54" />
 
 !([images/banking_overview.png](https://github.com/meghana03012/Banking-Analysis/blob/main/banking_overview.png))
 

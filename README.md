@@ -81,7 +81,7 @@ Specific findings should be validated against the underlying datasets and select
 
   ## Dashboard Preview
 ## Banking Analytics Dashboard
-This dashboard analyzes loan performance, customer behavior,
+This dashboards analyzes loan performance, customer behavior,
 repayment patterns, and debit/credit card transactions.
 <img width="1867" height="836" alt="image" src="https://github.com/user-attachments/assets/6d033714-e49a-45db-913a-3fa4936201b8" />
 

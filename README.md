@@ -82,7 +82,7 @@ Specific findings should be validated against the underlying datasets and select
   ## Dashboard Preview
 
 ### Banking Overview
-<a href="https://github.com/meghana03012/Banking-Analysis/blob/main/banking_overview.png">Banking Analytics Dashboard</a>
+<a href="https://github.com/meghana03012/Banking-Analysis/blob/main/banking_overview.png">banking_overview</a>
 
 ### Loan Analytics
 ![Loan Analytics](images/loan_analytics.png)
